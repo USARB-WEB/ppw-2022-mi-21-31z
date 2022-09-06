@@ -7,11 +7,15 @@ chilatsergiu@gmail.com
 - HTML https://www.w3schools.com/html/
 
 # Tools and editors
+## Offline
 - VS Code https://code.visualstudio.com/
 - Subliome text https://www.sublimetext.com/
 - Brackets https://brackets.io/
 - Notepad ++ https://notepad-plus-plus.org/downloads/
 - WebStorm https://www.jetbrains.com/webstorm/
+
+## Online
+- https://codesandbox.io/
 
 # Link to video conference
 https://meet.google.com/xej-qvxf-rau
