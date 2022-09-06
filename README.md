@@ -5,6 +5,7 @@ chilatsergiu@gmail.com
 
 # Tutorials
 - HTML https://www.w3schools.com/html/
+- Git video tutorial https://www.youtube.com/watch?v=8JJ101D3knE
 
 # Tools and editors
 ## Offline
