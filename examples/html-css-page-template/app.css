@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+nav{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin: 1em;
+}
+
+nav a{
+    display: block;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 0.5em;
+    text-align: center;
+}
+
+nav a:hover{
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+
+main aside{
+    background-color: bisque;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    margin-left: 1em;
+}
+
+main section{
+    margin: 0 1em;
+    padding: 1em;
+    text-align: justify;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+footer{
+    height: 5em;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    padding-top: 2em;
+    margin-top: 1em;
+}
+
