@@ -19,5 +19,8 @@ chilatsergiu@gmail.com
 ## Online
 - https://codesandbox.io/
 
+# Utils
+- Emmet abbreviations https://code.visualstudio.com/docs/editor/emmet
+
 # Link to video conference
 https://meet.google.com/xej-qvxf-rau
