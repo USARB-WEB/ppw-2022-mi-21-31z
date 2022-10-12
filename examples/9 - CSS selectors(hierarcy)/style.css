@@ -1,0 +1,18 @@
+nav{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+nav a{
+    border: 1px solid blue;
+    border-radius: 3px;
+    background-color: aqua;
+    display: block;
+    text-align: center;
+}
+
+nav a:hover{
+    background: blue;
+    color: wheat;
+    text-decoration: none;
+}
