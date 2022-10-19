@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+.game-field{
+    width: 300px;
+    height: 150px;
+    background-color: green;
+    border: 1px solid white;
+}
+
+
+.ball{
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: sticky;
+    left: 150px;
+    top: 75px;
+}
