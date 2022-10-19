@@ -1,0 +1,22 @@
+nav.inline-block{
+    font-size: 0;
+}
+
+nav.inline-block a{
+    border: 1px solid blue;
+    border-radius: 5px;
+    width: 25%;
+    display: inline-block;
+    font-size: 16px;
+}
+
+nav.flex{
+    display: flex;
+}
+
+nav.flex a{
+    border: 1px solid blue;
+    border-radius: 5px;
+    width: 23%;
+    
+}
