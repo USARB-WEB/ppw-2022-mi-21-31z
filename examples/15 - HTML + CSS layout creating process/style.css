@@ -1,0 +1,104 @@
+body{
+    font-family: 'Nunito';
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+}
+
+#logo img{
+    width: 30px;
+    height: 30px;
+}
+
+#logo figcaption{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    letter-spacing: 0.25em;
+    color: #3E3F43;
+    margin-left: 8px;
+}
+
+nav{
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    width: 100%;
+    justify-content: space-between;
+    height: 40px;
+    align-items: center;
+}
+
+nav ul li a{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(34, 34, 34, 0.75);
+}
+
+nav ul li.active a{
+    color: rgba(218, 165, 32, 1);
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+nav ul li.button{
+    border: 1px solid rgba(62, 63, 67, 1);
+    border-radius: 8px;
+    padding: 9px 36px;
+    text-transform: uppercase;
+}
+
+
+
+header{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+}
+
+header h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 98px;
+    color: #313235;    
+}
+
+header button{
+    background-color: #DAA520;
+    color: white;
+    padding: 14px 36px;
+    border-radius: 4px;
+    border: none;
+
+}
+
+header span{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    color: #3E3F43;
+}
+
+section{
+    
+    width: 1000px;
+    margin: 0 auto;
+}
