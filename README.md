@@ -12,6 +12,7 @@ chilatsergiu@gmail.com
 - HTML https://www.w3schools.com/html/
 - Git video tutorial https://www.youtube.com/watch?v=8JJ101D3knE
 - https://www.w3schools.com/css/
+- Firebase https://docs.google.com/presentation/d/1-rgotyEptZsHu58FlyGyk6qRfsvuet7BSXN2B4fKa1s/edit?usp=sharing
 
 # Tools and editors
 ## Offline
